@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">nasa_recyclerview</string>
+    <string name="rover_text">Rover: %s</string>
+    <string name="camera_text">Camera: %s</string>
+    <string name="sol_text">Sol: %s</string>
+    <string name="date_text">Date: %s</string>
+</resources>
